@@ -8,6 +8,7 @@ Date|Duration|Person|Fee|Person Fee|Card Expense
 ----|--------|------|---|----------|------------
 Mar. 15|2h|Shuang, Aubrey, Yi, Zhenyu, Mei|70|19.0(14.0+5.0)|1435
 Apr. 6|2h|Shuang, Aubrey, Yi, Zhenyu|70|22.50(17.5+5.00)|1505
+Apr. 12|2h|Shuang, Mei|70|35.0|1575
 
 Shuang
 
@@ -15,6 +16,7 @@ Date|Event/Fee|Balance
 ----|---------|-------
 Mar. 15|19.0|136.0
 Apr. 6|22.50|113.50
+Apr. 12|35.0|78.5
 
 
 Aubrey
@@ -45,7 +47,7 @@ Mei
 Date|Event/Fee|Balance
 ----|---------|-------
 Mar. 15|19.0|-19.0
-
+Apr. 12|35.0|-54.0
 
 
 
