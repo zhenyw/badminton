@@ -70,6 +70,7 @@ Apr. 19|12.0|-12.0
 
 
 Yakui
+
 Date|Event/Fee|Balance
 ----|---------|-------
 ||69.40
