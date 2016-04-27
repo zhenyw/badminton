@@ -52,6 +52,7 @@ Date|Event/Fee|Balance
 Mar. 15|19.0|-19.0
 Apr. 19|12.0|-31.0
 Apr. 26|20.0|-51.0
+Apr. 26|+100.0|49.0
 
 Kangkang
 
@@ -66,6 +67,7 @@ Date|Event/Fee|Balance
 Apr. 12|35.0|-35.0
 Apr. 19|12.0|-47.0
 Apr. 26|20.0|-67.0
+Apr. 26|+20.0|-47.0
 
 Songtao
 
