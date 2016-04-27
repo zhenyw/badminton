@@ -89,6 +89,7 @@ LiQ
 Date|Event/Fee|Balance
 ----|---------|-------
 Apr. 26|20.0|-20.0
+Apr. 27|+20.0|0.0
 
 Yakui
 
