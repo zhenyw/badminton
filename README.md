@@ -82,6 +82,7 @@ Tianye
 Date|Event/Fee|Balance
 ----|---------|-------
 Apr. 26|20.0|-20.0
+Apr. 27|+100.0|80.0
 
 LiQ
 
