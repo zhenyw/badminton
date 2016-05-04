@@ -11,6 +11,7 @@ Apr. 6|2h|Shuang, Aubrey, Yi, Zhenyu|70|22.50(17.5+5.00)|1505
 Apr. 12|2h|Shuang, Huaxing|70|35.0|1575
 Apr. 19|2h|Shuang, Yi, Mei, Kangkang, Huaxing, Songtao|70|12.0|1645
 Apr. 26|2h|Shuang, Yi, Mei, Huaxing, Songtao, Tianye, LiQ|140|20.0|1785
+May. 3|2h|Shuang, Yi, Mei, Huaxing, Tianye, LiQ|70|12.0|1855
 
 Shuang
 
@@ -21,6 +22,7 @@ Apr. 6|22.50|113.50
 Apr. 12|35.0|78.5
 Apr. 19|12.0|66.5
 Apr. 26|20.0|46.5
+May. 3|12.0|34.5
 
 Aubrey
 
@@ -37,6 +39,7 @@ Mar. 15|19.0|317.0
 Apr. 6|22.50|294.50
 Apr. 19|12.0|282.50
 Apr. 26|20.0|262.50
+May. 3|12.0|250.50
 
 Robert
 
@@ -53,6 +56,7 @@ Mar. 15|19.0|-19.0
 Apr. 19|12.0|-31.0
 Apr. 26|20.0|-51.0
 Apr. 26|+100.0|49.0
+May. 3|12.0|37.0
 
 Kangkang
 
@@ -68,6 +72,7 @@ Apr. 12|35.0|-35.0
 Apr. 19|12.0|-47.0
 Apr. 26|20.0|-67.0
 Apr. 26|+20.0|-47.0
+May. 3|12.0|-59.0
 
 Songtao
 
@@ -83,6 +88,7 @@ Date|Event/Fee|Balance
 ----|---------|-------
 Apr. 26|20.0|-20.0
 Apr. 27|+100.0|80.0
+May. 3|12.0|68.0
 
 LiQ
 
@@ -90,6 +96,7 @@ Date|Event/Fee|Balance
 ----|---------|-------
 Apr. 26|20.0|-20.0
 Apr. 27|+20.0|0.0
+May. 3|12.0|-12.0
 
 Yakui
 
