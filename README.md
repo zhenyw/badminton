@@ -13,6 +13,7 @@ Apr. 19|2h|Shuang, Yi, Mei, Kangkang, Huaxing, Songtao|70|12.0|1645
 Apr. 26|2h|Shuang, Yi, Mei, Huaxing, Songtao, Tianye, LiQ|140|20.0|1785
 May. 3|2h|Shuang, Yi, Mei, Huaxing, Tianye, LiQ|70|12.0|1855
 May. 10|2h|Shuang, Yi, Mei, Huaxing, Tianye, LiQ, Songtao|70|15.0(10+5)|1925
+May. 17|2h(LongQi)|Shuang, Mei, Huaxing, LiQ, Songtao|76|20.0(15+5)|
 
 Shuang
 
@@ -25,6 +26,7 @@ Apr. 19|12.0|66.5
 Apr. 26|20.0|46.5
 May. 3|12.0|34.5
 May. 10|15.0|19.5
+May. 17|20.0|-0.5
 
 Aubrey
 
@@ -61,6 +63,7 @@ Apr. 26|20.0|-51.0
 Apr. 26|+100.0|49.0
 May. 3|12.0|37.0
 May. 10|15.0|22.0
+May. 17|20.0|2.0
 
 Kangkang
 
@@ -78,6 +81,7 @@ Apr. 26|20.0|-67.0
 Apr. 26|+20.0|-47.0
 May. 3|12.0|-59.0
 May. 10|15.0|-74.0
+May. 17|20.0|-94.0
 
 Songtao
 
@@ -88,6 +92,7 @@ Apr. 26|20.0|-32.0
 Apr. 27|+32.0|0.0
 May. 10|15.0|-15.0
 May. 17|+15.0|0.0
+May. 17|20.0|-20.0
 
 Tianye
 
@@ -108,6 +113,7 @@ May. 3|12.0|-12.0
 May. 6|+12.0|0.0
 May. 10|15.0|-15.0
 May. 17|+100.0|85.0
+May. 17|20.0|65.0
 
 Yakui
 
