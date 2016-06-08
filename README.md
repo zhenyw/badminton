@@ -135,3 +135,4 @@ Yakui
 Date|Event/Fee|Balance
 ----|---------|-------
  | |69.40
+Jun. 8| -69.4| 0.0
