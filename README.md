@@ -14,8 +14,9 @@ Apr. 26|2h|Shuang, Yi, Mei, Huaxing, Songtao, Tianye, LiQ|140|20.0|1785
 May. 3|2h|Shuang, Yi, Mei, Huaxing, Tianye, LiQ|70|12.0|1855
 May. 10|2h|Shuang, Yi, Mei, Huaxing, Tianye, LiQ, Songtao|70|15.0(10+5)|1925
 May. 17|2h(LongQi)|Shuang, Mei, Huaxing, LiQ, Songtao|76|20.0(15+5)|
-May. 24|2h(LongQi)|Shuang, Mei, Huaxing, Tianye, LiQ, Songtao, Wind||5.0(ball)| 
-May. 31|2h(LongQi)|Shuang, Mei, Huaxing, Tianye, LiQ, Songtao, Wind||5.0(ball)| 
+May. 24|2h(LongQix2)|Shuang, Mei, Huaxing, Tianye, LiQ, Songtao, Wind||5.0(ball)| 
+May. 31|2h(LongQix2)|Shuang, Mei, Huaxing, Tianye, LiQ, Songtao, Wind||5.0(ball)| 
+June. 5|2h(LongQix1)|Shuang, Huaxing, Tianye, Songtao, Yushu||5.0(ball)| 
 Shuang
 
 Date|Event/Fee|Balance
@@ -30,6 +31,7 @@ May. 10|15.0|19.5
 May. 17|20.0|-0.5
 May. 24|5.0|-5.5
 May. 31|5.0|-10.5
+June. 5|5.0|-15.5
 
 Aubrey
 
@@ -90,6 +92,7 @@ May. 10|15.0|-74.0
 May. 17|20.0|-94.0
 May. 24|5.0|-99.0
 May. 31|5.0|-104.0
+June. 5|5.0|-109.0
 
 Songtao
 
@@ -104,6 +107,7 @@ May. 17|20.0|-20.0
 May. 31|+20.0|0.0
 May. 24|5.0|-5.0
 May. 31|5.0|-10.0
+June. 5|5.0|-15.0
 
 Tianye
 
@@ -115,6 +119,7 @@ May. 3|12.0|68.0
 May. 10|15.0|53.0
 May. 24|5.0|48.0
 May. 31|5.0|53.0
+June. 5|5.0|48.0
 
 LiQ
 
@@ -129,6 +134,12 @@ May. 17|+100.0|85.0
 May. 17|20.0|65.0
 May. 24|5.0|60.0
 May. 31|5.0|55.0
+
+Yushu
+
+Date|Event/Fee|Balance
+----|---------|-------
+June. 5|5.0|-5.0
 
 Wind
 
