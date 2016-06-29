@@ -19,6 +19,7 @@ May. 31|2h(LongQix2)|Shuang, Mei, Huaxing, Tianye, LiQ, Songtao, Wind||5.0(ball)
 June. 5|2h(LongQix1)|Shuang, Huaxing, Tianye, Songtao, Yushu||5.0(ball)| 
 June. 12|2h|Shuang, Huaxing, Tianye, Songtao, MeiLei, Wind|70|17(12+5.0)| 
 June. 19|2h(LongQix2)|Shuang, Huaxing, Tianye, Songtao, Zhaoying, Wind|5.0(ball)| 
+June. 28|2h(LongQix1)|Shuang, Tianye, Songtao, Zhaoying|5.0(ball)| 
 
 Shuang
 
@@ -37,6 +38,7 @@ May. 31|5.0|-10.5
 June. 5|5.0|-15.5
 June. 12|17.0|-32.5
 June. 19|5.0|-37.5
+June. 28|5.0|-42.5
 
 Aubrey
 
@@ -118,6 +120,7 @@ May. 31|5.0|-10.0
 June. 5|5.0|-15.0
 June. 12|17.0|-32.0
 June. 19|5.0|-37.0
+June. 28|5.0|-42.0
 
 Tianye
 
@@ -132,6 +135,8 @@ May. 31|5.0|53.0
 June. 5|5.0|48.0
 June. 12|17.0|31.0
 June. 19|5.0|26.0
+June. 21|+100.0|126.0
+June. 28|5.0|121.0
 
 LiQ
 
@@ -158,6 +163,7 @@ Zhaoying
 Date|Event/Fee|Balance
 ----|---------|-------
 June. 19|5.0|-5.0
+June. 28|5.0|-10.0
 
 Wind
 
